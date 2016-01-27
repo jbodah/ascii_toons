@@ -1,0 +1,40 @@
+@message_sentinel = 'x'
+@message_callout_symbol = '//'
+@message_callout_sentinel = 'y'
+@alignment = :left
+---
+        .;''-.
+      .' |    `._
+     /`  ;       `'.
+   .'     \         \
+  ,'\|    `|         |
+  | -'_     \ `'.__,J
+ ;'   `.     `'.__.'                         xxxxxxxxxxxxxxxxxxxxxxxxxx
+ |      `"-.___ ,'                           xxxxxxxxxxxxxxxxxxxxxxxxxx
+ '-,           /                             xxxxxxxxxxxxxxxxxxxxxxxxxx
+ |.-`-.______-|                              xxxxxxxxxxxxxxxxxxxxxxxxxx
+ }      __.--'L                              xxxxxxxxxxxxxxxxxxxxxxxxxx
+ ;   _,-  _.-"`\         ___                 xxxxxxxxxxxxxxxxxxxxxxxxxx
+ `7-;"   '  _,,--._  ,-'`__ `.               xxxxxxxxxxxxxxxxxxxxxxxxxx
+  |/      ,'-     .7'.-"--.7 |        _.-'   xxxxxxxxxxxxxxxxxxxxxxxxxx
+  ;     ,'      .' .'  .-. \/       .'       xxxxxxxxxxxxxxxxxxxxxxxxxx
+   ;   /       / .'.-     ` |__   .'
+    \ |      .' /  |    \_)-   `'/   _.-'``    y
+     _,.--../ .'     \_) '`_      \'`
+   '`f-'``'.`\;;'    ''`  '-`      |
+      \`.__. ;;;,   )              /
+       `-._,|;;;,, /\            ,'
+        / /<_;;;;'   `-._    _,-'
+       | '- /;;;;;,      `t'` \.
+       `'-'`_.|,';;;,      '._/|
+       ,_.-'  \ |;;;;;    `-._/
+             / `;\ |;;;,  `"
+           .'     `'`\;;, /
+          '           ;;;'|
+              .--.    ;.:`\    _.--,
+             |    `'./;' _ '_.'     |
+              \_     `"7f `)       /
+              |`   _.-'`t-'`"-.,__.'
+              `'-'`/;;  | |   \
+                  ;;;  ,' |    `
+                      /   '
