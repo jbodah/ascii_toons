@@ -10,7 +10,7 @@ gem install ascii_toons
 
 ## Usage
 
-```rb
+```
 require 'ascii_toons'
 => true
 ASCIIToons::Gandalf.say 'You shall not pass!'
@@ -57,7 +57,7 @@ end
 
 Or if you want to get real sassy (for the love of god, don't commit this):
 
-```rb
+```
 require 'ascii_toons'
 
 module KernelPatch
