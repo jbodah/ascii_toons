@@ -45,7 +45,7 @@ ASCIIToons::Gandalf.say 'You shall not pass!'
 
 Spice up your guard clauses for your rake tasks stopping people from dropping prod:
 
-```rb
+```
 task :drop_database do
   if Rails.env.production?
     ASCIIToons::Gandalf.say 'You shall not pass!'
